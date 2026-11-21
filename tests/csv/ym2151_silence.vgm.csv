@@ -1,0 +1,3 @@
+# clock_hz=3579545
+delay,reg,data
+4410,wait,00

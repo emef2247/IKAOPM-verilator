@@ -1,0 +1,24 @@
+{
+  "url": "https://github.com/ika-musume/IKAOPM",
+  "revision": "08a5b40ed14418319287df450f7d4a523ddeed5e",
+  "license": "BSD-2-Clause",
+  "files": {
+    "src/IKAOPM.v": "c241ed442ba181c36f8d3bc4cf9c857322370828c3d0134b756ec18ecfc4c2ce",
+    "src/IKAOPM_modules/IKAOPM_acc.v": "228d65884f3264347f049c03b594571c538c29061beedab3cb96bea25cc7c259",
+    "src/IKAOPM_modules/IKAOPM_eg.v": "407e666bc4d2f27d5715a718adec9b7fe8577bef6f302cf9316bfc8d9eea102e",
+    "src/IKAOPM_modules/IKAOPM_lfo.v": "76826401406b5e1a0c8c2e49d48232959f414c2cd3982523fb53c242cc6ab0e5",
+    "src/IKAOPM_modules/IKAOPM_noise.v": "cfafdf4b03da88046e2f6f54e3d853f15d8b9d5f0050fdace95c403f4c8bae18",
+    "src/IKAOPM_modules/IKAOPM_op.v": "7e12834823ca6292673fb1842afbc562a48d81fdce41e92f010975f65a7dc07c",
+    "src/IKAOPM_modules/IKAOPM_pg.v": "48463500311c83f0933cb065b29e6ffb8248ea2f00d69173796e30cba3f56797",
+    "src/IKAOPM_modules/IKAOPM_primitives.v": "e4e02e7e159b26ecf0e6cd8a8c2ebc66ba651f7c9628bd92269537ee0f567ac0",
+    "src/IKAOPM_modules/IKAOPM_reg.v": "ef5aacf1092193977af00517ab3a10f28a96f75d4e1c54b48662d4aa7025d25f",
+    "src/IKAOPM_modules/IKAOPM_timer.v": "26ce3ae0061ad2621d0e04e0bb4bc755dee7728b6b9ed4f1830d673a8a9c195f",
+    "src/IKAOPM_modules/IKAOPM_timinggen.v": "bd4554fedc2b8d285da6f25019e7eedd8353d0cf6e1e9af7395ce706d5a6e4f8"
+  },
+  "parameters": {
+    "FULLY_SYNCHRONOUS": 1,
+    "FAST_RESET": 0,
+    "USE_BRAM": 0
+  },
+  "license_sha256": "8185c6cfa3dd4f97c3d0a7fcb2a9f64582175f8d09671fc9e46bd3d411040974"
+}
