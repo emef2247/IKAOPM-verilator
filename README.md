@@ -60,7 +60,7 @@ python3 export_vgm.py /path/to/vgm_dir --outdir outputs --sample-rate 48000
 
 ## ライセンス
 
-Copyright (c) 2025 emef2247.
+Copyright (c) 2026 emef2247.
 
 Licensed under the [BSD 2-Clause License](LICENSE).
 
